@@ -2,6 +2,12 @@
 
 > Figma Make AI UI/UX 設計教學，共四個階段，每階段約 5 分鐘。
 
+## 🌐 教學簡介網站
+
+👉 [https://cipher-judge-66240607.figma.site](https://cipher-judge-66240607.figma.site)
+
+> 由 Figma Make 製作的教學簡介頁面，包含四個階段的步驟說明與示範 Prompt。
+
 ---
 
 ## 🗂️ 教學四階段（共約 20 分鐘）
@@ -41,6 +47,7 @@
 
 ## 🔗 參考連結
 
+- [教學簡介網站](https://cipher-judge-66240607.figma.site)
 - [Figma Make 官網](https://www.figma.com/make/)
 - [Figma Make FAQs](https://help.figma.com/hc/en-us/articles/31722591905559-Figma-Make-FAQs)
 - [Supabase 官網](https://supabase.com)
